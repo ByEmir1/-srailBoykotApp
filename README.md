@@ -1,2 +1,2 @@
-# -srailBoykotApp
+# IsrailBoykotApp
 İsrailBoykotApp
